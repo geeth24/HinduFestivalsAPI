@@ -1,6 +1,6 @@
 {
     "1.1.21": {
-      "festivals": "None"
+      "festivals": "English New Year"
     },
     "1.2.21": {
       "festivals": "None"
@@ -33,13 +33,13 @@
       "festivals": "None"
     },
     "1.12.21": {
-      "festivals": "None"
+      "festivals": "Anvadhan"
     },
     "1.13.21": {
-      "festivals": "None"
+      "festivals": "Bhogi"
     },
     "1.14.21": {
-      "festivals": "None"
+      "festivals": "Makara Sankranti"
     },
     "1.15.21": {
       "festivals": "None"
@@ -48,7 +48,7 @@
       "festivals": "None"
     },
     "1.17.21": {
-      "festivals": "Makara Sankranti"
+      "festivals": "None"
     },
     "1.18.21": {
       "festivals": "None"
@@ -57,7 +57,7 @@
       "festivals": "None"
     },
     "1.20.21": {
-      "festivals": "None"
+      "festivals": "Durgashtami"
     },
     "1.21.21": {
       "festivals": "None"
@@ -72,6 +72,9 @@
       "festivals": "Pausha Putrada Ekadashi"
     },
     "1.25.21": {
+      "festivals": "None"
+    },
+    "1.26.21": {
       "festivals": "None"
     },
     "1.27.21": {
@@ -98,6 +101,175 @@
     "2.3.21": {
       "festivals": "None"
     },
+    "2.4.21": {
+      "festivals": "Kalashtami"
+    },
+    "2.5.21": {
+      "festivals": "None"
+    },
+    "2.6.21": {
+      "festivals": "None"
+    },
+    "2.7.21": {
+      "festivals": "Shattila Ekadashi"
+    },
+    "2.8.21": {
+      "festivals": "None"
+    },
+    "2.9.21": {
+      "festivals": "None"
+    },
+    "2.10.21": {
+      "festivals": "None"
+    },
+    "2.11.21": {
+      "festivals": "Mauni Amavasya"
+    },
+    "2.12.21": {
+      "festivals": "Kumbha Sankranti "
+    },
+    "2.13.21": {
+      "festivals": "None"
+    },
+    "2.14.21": {
+      "festivals": "None"
+    },
+    "2.15.21": {
+      "festivals": "None"
+    },
+    "2.16.21": {
+      "festivals": "Vasant Panchami"
+    },
+    "2.17.21": {
+      "festivals": "None"
+    },
+    "2.18.21": {
+      "festivals": "Ratha Saptami"
+    },
+    "2.19.21": {
+      "festivals": "Bhishma Ashtami"
+    },
+    "2.20.21": {
+      "festivals": "None"
+    },
+    "2.21.21": {
+      "festivals": "None"
+    },
+    "2.22.21": {
+      "festivals": "Jaya Ekadashi"
+    },
+    "2.23.21": {
+      "festivals": "None"
+    },
+    "2.24.21": {
+      "festivals": "Pausha Putrada Ekadashi"
+    },
+    "2.25.21": {
+      "festivals": "None"
+    },
+    "2.26.21": {
+      "festivals": "Magha Purnima"
+    },
+    "2.27.21": {
+      "festivals": "None"
+    },
+    "2.28.21": {
+      "festivals": "None"
+    },
+    "3.1.21": {
+      "festivals": "None"
+    },
+    "3.2.21": {
+      "festivals": "None"
+    },
+    "3.3.21": {
+      "festivals": "None"
+    },
+    "3.4.21": {
+      "festivals": "None"
+    },
+    "3.5.21": {
+      "festivals": "None"
+    },
+    "3.6.21": {
+      "festivals": "None"
+    },
+    "3.7.21": {
+      "festivals": "None"
+    },
+    "3.8.21": {
+      "festivals": "Vijaya Ekadashi"
+    },
+    "3.9.21": {
+      "festivals": "None"
+    },
+    "3.10.21": {
+      "festivals": "None"
+    },
+    "3.11.21": {
+      "festivals": "Maha Shivaratri"
+    },
+    "3.12.21": {
+      "festivals": "None"
+    },
+    "3.13.21": {
+      "festivals": "None"
+    },
+    "3.14.21": {
+      "festivals": "None"
+    },
+    "3.15.21": {
+      "festivals": "None"
+    },
+    "3.16.21": {
+      "festivals": "None"
+    },
+    "3.17.21": {
+      "festivals": "None"
+    },
+    "3.18.21": {
+      "festivals": "None"
+    },
+    "3.19.21": {
+      "festivals": "None"
+    },
+    "3.20.21": {
+      "festivals": "Durgashtami"
+    },
+    "3.21.21": {
+      "festivals": "None"
+    },
+    "3.22.21": {
+      "festivals": "None"
+    },
+    "3.23.21": {
+      "festivals": "None"
+    },
+    "3.24.21": {
+      "festivals": "Amalaki Ekadashi"
+    },
+    "3.25.21": {
+      "festivals": "None"
+    },
+    "3.26.21": {
+      "festivals": "None"
+    },
+    "3.27.21": {
+      "festivals": "None"
+    },
+    "3.28.21": {
+      "festivals": "None"
+    },
+    "3.29.21": {
+      "festivals": "None"
+    },
+    "3.30.21": {
+      "festivals": "None"
+    },
+    "3.31.21": {
+      "festivals": "Sakat Chauth"
+    },
+
     "7.10.21": {
       "festivals": "None"
     }

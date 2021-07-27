@@ -1,277 +1,201 @@
 {
-    "1.1.21": {
-      "festivals": "English New Year"
-    },
-    "1.2.21": {
-      "festivals": "None"
-    },
-    "1.3.21": {
-      "festivals": "None"
-    },
-    "1.4.21": {
-      "festivals": "None"
-    },
-    "1.5.21": {
-      "festivals": "None"
-    },
-    "1.6.21": {
-      "festivals": "None"
-    },
-    "1.7.21": {
-      "festivals": "None"
-    },
-    "1.8.21": {
-      "festivals": "Saphala Ekadashi"
-    },
-    "1.9.21": {
-      "festivals": "Gauna Saphala Ekadashi"
-    },
-    "1.10.21": {
-      "festivals": "None"
-    },
-    "1.11.21": {
-      "festivals": "None"
-    },
-    "1.12.21": {
-      "festivals": "Anvadhan"
-    },
-    "1.13.21": {
-      "festivals": "Bhogi"
-    },
-    "1.14.21": {
-      "festivals": "Makara Sankranti"
-    },
-    "1.15.21": {
-      "festivals": "None"
-    },
-    "1.16.21": {
-      "festivals": "None"
-    },
-    "1.17.21": {
-      "festivals": "None"
-    },
-    "1.18.21": {
-      "festivals": "None"
-    },
-    "1.19.21": {
-      "festivals": "None"
-    },
-    "1.20.21": {
-      "festivals": "Durgashtami"
-    },
-    "1.21.21": {
-      "festivals": "None"
-    },
-    "1.22.21": {
-      "festivals": "None"
-    },
-    "1.23.21": {
-      "festivals": "None"
-    },
-    "1.24.21": {
-      "festivals": "Pausha Putrada Ekadashi"
-    },
-    "1.25.21": {
-      "festivals": "None"
-    },
-    "1.26.21": {
-      "festivals": "None"
-    },
-    "1.27.21": {
-      "festivals": "None"
-    },
-    "1.28.21": {
-      "festivals": "Paush Purnima"
-    },
-    "1.29.21": {
-      "festivals": "None"
-    },
-    "1.30.21": {
-      "festivals": "None"
-    },
-    "1.31.21": {
-      "festivals": "Sakat Chauth"
-    },
-    "2.1.21": {
-      "festivals": "None"
-    },
-    "2.2.21": {
-      "festivals": "None"
-    },
-    "2.3.21": {
-      "festivals": "None"
-    },
-    "2.4.21": {
-      "festivals": "Kalashtami"
-    },
-    "2.5.21": {
-      "festivals": "None"
-    },
-    "2.6.21": {
-      "festivals": "None"
-    },
-    "2.7.21": {
-      "festivals": "Shattila Ekadashi"
-    },
-    "2.8.21": {
-      "festivals": "None"
-    },
-    "2.9.21": {
-      "festivals": "None"
-    },
-    "2.10.21": {
-      "festivals": "None"
-    },
-    "2.11.21": {
-      "festivals": "Mauni Amavasya"
-    },
-    "2.12.21": {
-      "festivals": "Kumbha Sankranti "
-    },
-    "2.13.21": {
-      "festivals": "None"
-    },
-    "2.14.21": {
-      "festivals": "None"
-    },
-    "2.15.21": {
-      "festivals": "None"
-    },
-    "2.16.21": {
-      "festivals": "Vasant Panchami"
-    },
-    "2.17.21": {
-      "festivals": "None"
-    },
-    "2.18.21": {
-      "festivals": "Ratha Saptami"
-    },
-    "2.19.21": {
-      "festivals": "Bhishma Ashtami"
-    },
-    "2.20.21": {
-      "festivals": "None"
-    },
-    "2.21.21": {
-      "festivals": "None"
-    },
-    "2.22.21": {
-      "festivals": "Jaya Ekadashi"
-    },
-    "2.23.21": {
-      "festivals": "None"
-    },
-    "2.24.21": {
-      "festivals": "Pausha Putrada Ekadashi"
-    },
-    "2.25.21": {
-      "festivals": "None"
-    },
-    "2.26.21": {
-      "festivals": "Magha Purnima"
-    },
-    "2.27.21": {
-      "festivals": "None"
-    },
-    "2.28.21": {
-      "festivals": "None"
-    },
-    "3.1.21": {
-      "festivals": "None"
-    },
-    "3.2.21": {
-      "festivals": "None"
-    },
-    "3.3.21": {
-      "festivals": "None"
-    },
-    "3.4.21": {
-      "festivals": "None"
-    },
-    "3.5.21": {
-      "festivals": "None"
-    },
-    "3.6.21": {
-      "festivals": "None"
-    },
-    "3.7.21": {
-      "festivals": "None"
-    },
-    "3.8.21": {
-      "festivals": "Vijaya Ekadashi"
-    },
-    "3.9.21": {
-      "festivals": "None"
-    },
-    "3.10.21": {
-      "festivals": "None"
-    },
-    "3.11.21": {
-      "festivals": "Maha Shivaratri"
-    },
-    "3.12.21": {
-      "festivals": "None"
-    },
-    "3.13.21": {
-      "festivals": "None"
-    },
-    "3.14.21": {
-      "festivals": "None"
-    },
-    "3.15.21": {
-      "festivals": "None"
-    },
-    "3.16.21": {
-      "festivals": "None"
-    },
-    "3.17.21": {
-      "festivals": "None"
-    },
-    "3.18.21": {
-      "festivals": "None"
-    },
-    "3.19.21": {
-      "festivals": "None"
-    },
-    "3.20.21": {
-      "festivals": "Durgashtami"
-    },
-    "3.21.21": {
-      "festivals": "None"
-    },
-    "3.22.21": {
-      "festivals": "None"
-    },
-    "3.23.21": {
-      "festivals": "None"
-    },
-    "3.24.21": {
-      "festivals": "Amalaki Ekadashi"
-    },
-    "3.25.21": {
-      "festivals": "None"
-    },
-    "3.26.21": {
-      "festivals": "None"
-    },
-    "3.27.21": {
-      "festivals": "None"
-    },
-    "3.28.21": {
-      "festivals": "None"
-    },
-    "3.29.21": {
-      "festivals": "None"
-    },
-    "3.30.21": {
-      "festivals": "None"
-    },
-    "3.31.21": {
-      "festivals": "Sakat Chauth"
-    },
+  "7.27.21": {
+    "festivals": "Gauri Vrat"
+  },
+  "7.28.21": {
+    "festivals": "None"
+  },
+  "7.29.21": {
+    "festivals": "None"
+  },
+  "7.30.21": {
+    "festivals": "Kalashtami"
+  },
 
-    "7.10.21": {
-      "festivals": "None"
-    }
+  "8.1.21": {
+    "festivals": "Friendship Day"
+  },
+  "8.2.21": {
+    "festivals": "None"
+  },
+  "8.3.21": {
+    "festivals": "Gauri Vrat"
+  },
+  "8.4.21": {
+    "festivals": "Kamika Ekadashi"
+  },
+  "8.5.21": {
+    "festivals": "Pradosh Vrat"
+  },
+  "8.6.21": {
+    "festivals": "Masik Shivaratri"
+  },
+  "8.7.21": {
+    "festivals": "Amavasya"
+  },
+  "8.8.21": {
+    "festivals": "Ishti"
+  },
+  "8.9.21": {
+    "festivals": "Chandra Darshana"
+  },
+  "8.10.21": {
+    "festivals": "Andal Jayanthi"
+  },
+  "8.11.21": {
+    "festivals": "Vinayaka Chaturthi"
+  },
+  "8.12.21": {
+    "festivals": "Nag Panchami"
+  },
+  "8.13.21": {
+    "festivals": "Kalki Jayanti"
+  },
+  "8.14.21": {
+    "festivals": "Tulsidas Jayanti"
+  },
+  "8.15.21": {
+    "festivals": "India Independence Day"
+  },
+  "8.16.21": {
+    "festivals": "None"
+  },
+  "8.17.21": {
+    "festivals": "Malayalam New Year"
+  },
+  "8.18.21": {
+    "festivals": "Damodara Dwadashi"
+  },
+  "8.19.21": {
+    "festivals": "Pradosh Vrat"
+  },
+  "8.20.21": {
+    "festivals": "Varalakshmi Vrat & Onam"
+  },
+  "8.21.21": {
+    "festivals": "Raksha Bandhan"
+  },
+  "8.22.21": {
+    "festivals": "Gayatri Jayanti"
+  },
+  "8.23.21": {
+    "festivals": "None"
+  },
+  "8.24.21": {
+    "festivals": "None"
+  },
+  "8.25.21": {
+    "festivals": "None"
+  },
+  "8.26.21": {
+    "festivals": "None"
+  },
+  "8.27.21": {
+    "festivals": "Nag Panchami"
+  },
+  "8.28.21": {
+    "festivals": "Balarama Jayanti"
+  },
+  "8.29.21": {
+    "festivals": "Kali Jayanti"
+  },
+  "8.30.21": {
+    "festivals": "None"
+  },
+  "8.31.21": {
+    "festivals": "None"
+  },
+
+  "9.1.21": {
+    "festivals": "None"
+  },
+  "9.2.21": {
+    "festivals": "Aja Ekadashi"
+  },
+  "9.3.21": {
+    "festivals": "None"
+  },
+  "9.4.21": {
+    "festivals": "Pradosh Vrat"
+  },
+  "9.5.21": {
+    "festivals": "None"
+  },
+  "9.6.21": {
+    "festivals": "Amavasya"
+  },
+  "9.7.21": {
+    "festivals": "Ishti"
+  },
+  "9.8.21": {
+    "festivals": "Varaha Jayanti"
+  },
+  "9.9.21": {
+    "festivals": "Gowri Habba"
+  },
+  "9.10.21": {
+    "festivals": "Rishi Panchami"
+  },
+  "9.11.21": {
+    "festivals": "Skanda Sashti"
+  },
+  "9.12.21": {
+    "festivals": "Lalita Saptami"
+  },
+  "9.13.21": {
+    "festivals": "Radha Ashtami"
+  },
+  "9.14.21": {
+    "festivals": "None"
+  },
+  "9.15.21": {
+    "festivals": "None"
+  },
+  "9.16.21": {
+    "festivals": "Vishwakarma Puja"
+  },
+  "9.17.21": {
+    "festivals": "Vamana Jayanti"
+  },
+  "9.18.21": {
+    "festivals": "Pradosh Vrat"
+  },
+  "9.19.21": {
+    "festivals": "None"
+  },
+  "9.20.21": {
+    "festivals": "Purnima"
+  },
+  "9.21.21": {
+    "festivals": "None"
+  },
+  "9.22.21": {
+    "festivals": "Dwitiya Shraddha"
+  },
+  "9.23.21": {
+    "festivals": "Tritiya Shraddha"
+  },
+  "9.24.21": {
+    "festivals": "Chaturthi Shraddha"
+  },
+  "9.25.21": {
+    "festivals": "Panchami Shraddha"
+  },
+  "9.26.21": {
+    "festivals": "Shashthi Shraddha"
+  },
+  "9.27.21": {
+    "festivals": "Saptami Shraddha"
+  },
+  "9.28.21": {
+    "festivals": "Ashtami Shraddha"
+  },
+  "9.29.21": {
+    "festivals": "Navami Shraddha"
+  },
+  "9.30.21": {
+    "festivals": "Dashami Shraddha"
+  }
+
   
   }

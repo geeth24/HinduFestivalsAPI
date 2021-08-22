@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.send('Hello World!')
   })
   
-app.use('/api', jsonServer.router('db.json'));
+app.use('/api', jsonServer.router('./db.json'));
   
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)

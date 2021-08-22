@@ -2,16 +2,19 @@ const express = require('express');
 const app = express();
 const jsonServer = require('json-server');
 const path = require('path');
-const router = express.Router();
+const port = 3000
+
+
 // ...
 
 // You may want to mount JSON Server on a specific end-point, for example /api
 // Optiona,l except if you want to have JSON Server default
-router.get('/',function(req,res){
-    res.send("Up")
-  });
+app.get('/', (req, res) => {
+    res.send('Hello World!')
+  })
   
-router.use('/api', jsonServer.router('db.json'));
-
-app.use('/', router);
-app.listen(process.env.port || 3000);
+app.use('/api', jsonServer.router('db.json'));
+  
+app.listen(port, () => {
+    console.log(`Example app listening at http://localhost:${port}`)
+  })

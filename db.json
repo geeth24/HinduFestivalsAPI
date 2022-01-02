@@ -1,310 +1,272 @@
 {
-  "7.27.21": {
-    "festivals": "Gauri Vrat"
+  "1-Jan-22": {
+    "festivals": "Margazhi Moolam"
   },
-  "7.28.21": {
-    "festivals": "None"
+  "13-Jan-22": {
+    "festivals": "Bhogi, Lohri"
   },
-  "7.29.21": {
-    "festivals": "None"
+  "14-Jan-22": {
+    "festivals": "Makara Sankranti"
   },
-  "7.30.21": {
-    "festivals": "Kalashtami"
+  "18-Jan-22": {
+    "festivals": "Thai Poosam"
   },
-
-  "8.1.21": {
-    "festivals": "Friendship Day"
+  "4-Feb-22": {
+    "festivals": "Varada Ganesh Chaturthi"
   },
-  "8.2.21": {
-    "festivals": "None"
+  "5-Feb-22": {
+    "festivals": "Vasant Panchami"
   },
-  "8.3.21": {
-    "festivals": "Gauri Vrat"
+  "7-Feb-22": {
+    "festivals": "Ratha Saptami"
   },
-  "8.4.21": {
-    "festivals": "Kamika Ekadashi"
+  "8-Feb-22": {
+    "festivals": "Bhishma Asthami"
   },
-  "8.5.21": {
-    "festivals": "Pradosh Vrat"
+  "9-Feb-22": {
+    "festivals": "Madhva Navami"
   },
-  "8.6.21": {
-    "festivals": "Masik Shivaratri"
+  "16-Feb-22": {
+    "festivals": "Masi Magham"
   },
-  "8.7.21": {
-    "festivals": "Amavasya"
+  "28-Feb-22": {
+    "festivals": "Maha Shivaratri"
   },
-  "8.8.21": {
-    "festivals": "Ishti"
+  "10-Mar-22": {
+    "festivals": "Holasthaka Begin"
   },
-  "8.9.21": {
-    "festivals": "Chandra Darshana"
+  "14-Mar-22": {
+    "festivals": "Karadyan Nombu"
   },
-  "8.10.21": {
-    "festivals": "Andal Jayanthi"
+  "17-Mar-22": {
+    "festivals": "Holika Dahan"
   },
-  "8.11.21": {
-    "festivals": "Vinayaka Chaturthi"
+  "18-Mar-22": {
+    "festivals": "Panguni Uttiram"
   },
-  "8.12.21": {
-    "festivals": "Nag Panchami"
+  "22-Mar-22": {
+    "festivals": "Rang Panchami"
   },
-  "8.13.21": {
-    "festivals": "Kalki Jayanti"
+  "24-Mar-22": {
+    "festivals": "Shitala Vrat (Basoda)"
   },
-  "8.14.21": {
-    "festivals": "Tulsidas Jayanti"
+  "1-Apr-22": {
+    "festivals": "Vasant Navaratri Begin"
   },
-  "8.15.21": {
-    "festivals": "India Independence Day"
+  "3-Apr-22": {
+    "festivals": "Gowri Tritiya, Gaungaur Puja"
   },
-  "8.16.21": {
-    "festivals": "None"
+  "9-Apr-22": {
+    "festivals": "Chaitra Durgasthami"
   },
-  "8.17.21": {
-    "festivals": "Malayalam New Year"
+  "10-Apr-22": {
+    "festivals": "Sri Raam Navami (Vaishnava)"
   },
-  "8.18.21": {
-    "festivals": "Damodara Dwadashi"
+  "14-Apr-22": {
+    "festivals": "Vishu"
   },
-  "8.19.21": {
-    "festivals": "Pradosh Vrat"
+  "16-Apr-22": {
+    "festivals": "Hanuman Jayanti"
   },
-  "8.20.21": {
-    "festivals": "Varalakshmi Vrat"
+  "3-Mar-22": {
+    "festivals": "Parasuram Jayanti"
   },
-  "8.21.21": {
-    "festivals": "Onam"
+  "3-May-22": {
+    "festivals": "Akshaya Tritiya"
   },
-  "8.22.21": {
-    "festivals": "Raksha Bandhan"
+  "5-May-22": {
+    "festivals": "Ramanuja Thiru Nakshatra"
   },
-  "8.23.21": {
-    "festivals": "None"
+  "6-May-22": {
+    "festivals": "Ramanuja Jayanti"
   },
-  "8.24.21": {
-    "festivals": "None"
+  "7-May-22": {
+    "festivals": "Sri Ganga Janma"
   },
-  "8.25.21": {
-    "festivals": "None"
+  "9-May-22": {
+    "festivals": "Janaki Jayanti"
   },
-  "8.26.21": {
-    "festivals": "None"
+  "14-May-22": {
+    "festivals": "Narasimha Jayanti"
   },
-  "8.27.21": {
-    "festivals": "None"
+  "15-May-22": {
+    "festivals": "Annamacharya Jayanti"
   },
-  "8.28.21": {
-    "festivals": "Balarama Jayanti"
+  "24-May-22": {
+    "festivals": "Hanumat Jayanti (Telugu)"
   },
-  "8.29.21": {
-    "festivals": "Kali Jayanti"
+  "29-May-22": {
+    "festivals": "Vata Savitri (Hindi Belt)"
   },
-  "8.30.21": {
-    "festivals": "None"
+  "11-Jun-22": {
+    "festivals": "Vaikasi Visakam"
   },
-  "8.31.21": {
-    "festivals": "None"
+  "10-Jun-22": {
+    "festivals": "Nirjala Ekadashi (Vaishnava)"
   },
-
-  "9.1.21": {
-    "festivals": "None"
+  "13-Jun-22": {
+    "festivals": "Vata Savitri"
   },
-  "9.2.21": {
-    "festivals": "Aja Ekadashi"
+  "30-Jun-22": {
+    "festivals": "Rathayatra"
   },
-  "9.3.21": {
-    "festivals": "None"
+  "9-Jul-22": {
+    "festivals": "Dev Shayana Ekadashi -- Smarta"
   },
-  "9.4.21": {
-    "festivals": "Pradosh Vrat"
+  "10-Jul-22": {
+    "festivals": "Dev Shayana Ekadashi -- Vaishnava"
   },
-  "9.5.21": {
-    "festivals": "None"
+  "13-Jul-22": {
+    "festivals": "Guru Purnima"
   },
-  "9.6.21": {
-    "festivals": "None"
+  "22-Jul-22": {
+    "festivals": "Aadi Krittikai"
   },
-  "9.7.21": {
-    "festivals": "Ishti"
+  "31-Jul-22": {
+    "festivals": "Andal Jayanti"
   },
-  "9.8.21": {
-    "festivals": "Varaha Jayanti"
+  "2-Aug-22": {
+    "festivals": "Garuda Panchami"
   },
-  "9.9.21": {
-    "festivals": "Gowri Habba"
+  "4-Aug-22": {
+    "festivals": "Goswami Tulsidas Jayanti"
   },
-  "9.10.21": {
+  "5-Aug-22": {
+    "festivals": "Vara Lakshmi Vratam"
+  },
+  "11-Aug-22": {
+    "festivals": "Yajjur Gayatri Japam"
+  },
+  "12-Aug-22": {
+    "festivals": "Rik Gayatri Japam"
+  },
+  "13-Aug-22": {
+    "festivals": "Raghavendra Swami Aradhana"
+  },
+  "16-Aug-22": {
+    "festivals": "Naag Pancham (Gujarat)"
+  },
+  "17-Aug-22": {
+    "festivals": "Shitala Satam"
+  },
+  "18-Aug-22": {
+    "festivals": "Krishna Janmasthami"
+  },
+  "19-Aug-22": {
+    "festivals": "Vaishnava Janmashtami"
+  },
+  "20-Aug-22": {
+    "festivals": "Sri Jayanti"
+  },
+  "29-Aug-22": {
+    "festivals": "Samaveda Upakarma"
+  },
+  "30-Aug-22": {
     "festivals": "Ganesh Chaturthi"
   },
-  "9.11.21": {
-    "festivals": "None"
+  "31-Aug-22": {
+    "festivals": "Rishi Panchami"
   },
-  "9.12.21": {
-    "festivals": "None"
+  "7-Sep-22": {
+    "festivals": "Thiru Onam"
   },
-  "9.13.21": {
-    "festivals": "None"
+  "8-Sep-22": {
+    "festivals": "Anant Chaturdashi"
   },
-  "9.14.21": {
-    "festivals": "None"
+  "9-Sep-22": {
+    "festivals": "Shraddha Pakasha Begin"
   },
-  "9.15.21": {
-    "festivals": "None"
+  "25-Sep-22": {
+    "festivals": "Shraddha Paksha Ends"
   },
-  "9.16.21": {
-    "festivals": "Vishwakarma Puja"
+  "26-Sep-22": {
+    "festivals": "Sharad Navaratri Begin"
   },
-  "9.17.21": {
-    "festivals": "Vamana Jayanti"
+  "29-Sep-22": {
+    "festivals": "Lalitha Panchami"
   },
-  "9.18.21": {
-    "festivals": "Pradosh Vrat"
+  "2-Oct-22": {
+    "festivals": "Durga Asthami"
   },
-  "9.19.21": {
-    "festivals": "None"
+  "3-Oct-22": {
+    "festivals": "Maha Navami Balidan"
   },
-  "9.20.21": {
-    "festivals": "Purnima"
+  "4-Oct-22": {
+    "festivals": "Vijaya Dashami, Dussera"
   },
-  "9.21.21": {
-    "festivals": "None"
+  "5-Oct-22": {
+    "festivals": "Kanya Shravanam"
   },
-  "9.22.21": {
-    "festivals": "None"
+  "8-Oct-22": {
+    "festivals": "Sharad Purnima, Kojagiri"
   },
-  "9.23.21": {
-    "festivals": "None"
-  },
-  "9.24.21": {
-    "festivals": "None"
-  },
-  "9.25.21": {
-    "festivals": "None"
-  },
-  "9.26.21": {
-    "festivals": "None"
-  },
-  "9.27.21": {
-    "festivals": "None"
-  },
-  "9.28.21": {
-    "festivals": "None"
-  },
-  "9.29.21": {
-    "festivals": "None"
-  },
-  "9.30.21": {
-    "festivals": "None"
-  },
- 
-  "10.1.21": {
-    "festivals": "None"
-  },
-  "10.2.21": {
-    "festivals": "Gandhi Jayanti"
-  },
-  "10.3.21": {
-    "festivals": "None"
-  },
-  "10.4.21": {
-    "festivals": "None"
-  },
-  "10.5.21": {
-    "festivals": "Navratri Begins Tomorrow"
-  },
-  "10.6.21": {
-    "festivals": "Navratri Day 1"
-  },
-  "10.7.21": {
-    "festivals": "Navratri Day 2"
-  },
-  "10.8.21": {
-    "festivals": "Navratri Day 3"
-  },
-  "10.9.21": {
-    "festivals": "Navratri Day 4"
-  },
-  "10.10.21": {
-    "festivals": "Navratri Day 5"
-  },
-  "10.11.21": {
-    "festivals": "Navratri Day 6"
-  },
-  "10.12.21": {
-    "festivals": "Navratri Day 7"
-  },
-  "10.13.21": {
-    "festivals": "Navratri Day 8"
-  },
-  "10.14.21": {
-    "festivals": "Dussehra"
-  },
-  "10.15.21": {
-    "festivals": "None"
-  },
-  "10.16.21": {
-    "festivals": "None"
-  },
-  "10.17.21": {
-    "festivals": "Pradosh Vrat"
-  },
-  "10.18.21": {
-    "festivals": "None"
-  },
-  "10.19.21": {
-    "festivals": "None"
-  },
-  "10.20.21": {
+  "9-Oct-22": {
     "festivals": "Valmiki Jayanti"
   },
-  "10.21.21": {
-    "festivals": "Diwali On 11/4"
+  "12-Oct-22": {
+    "festivals": "Karwa Chowth"
   },
-  "10.22.21": {
-    "festivals": "Diwali On 11/4"
+  "17-Oct-22": {
+    "festivals": "Ahoi Asthami"
   },
-  "10.23.21": {
-    "festivals": "Diwali On 11/4"
+  "21-Oct-22": {
+    "festivals": "Govatsa Dwadashi"
   },
-  "10.24.21": {
-    "festivals": "Diwali On 11/4"
+  "22-Oct-22": {
+    "festivals": "Dhanteras"
   },
-  "10.25.21": {
-    "festivals": "Diwali On 11/4"
+  "23-Oct-22": {
+    "festivals": "Hanuman Jayanti (Hindi Belt)"
   },
-  "10.26.21": {
-    "festivals": "Diwali On 11/4"
-  },
-  "10.27.21": {
-    "festivals": "Diwali On 11/4"
-  },
-  "10.28.21": {
-    "festivals": "Diwali On 11/4"
-  },
-  "10.29.21": {
-    "festivals": "Diwali On 11/4"
-  },
-  "10.30.21": {
-    "festivals": "Diwali On 11/4"
-  },
-  "10.31.21": {
-    "festivals": "Diwali On 11/4"
-  },
-
-  "11.1.21": {
-    "festivals": "Diwali On 11/4"
-  },
-  "11.2.21": {
-    "festivals": "Diwali On 11/4"
-  },
-  "11.3.21": {
-    "festivals": "Diwali Tomorrow"
-  },
-  "11.4.21": {
+  "24-Oct-22": {
     "festivals": "Diwali"
+  },
+  "25-Oct-22": {
+    "festivals": "Bali Pratipada"
+  },
+  "26-Oct-22": {
+    "festivals": "Yama Dvitiya, Bhaiya Duj"
+  },
+  "29-Oct-22": {
+    "festivals": "Labh Panchami"
+  },
+  "30-Oct-22": {
+    "festivals": "Chhath"
+  },
+  "1-Nov-22": {
+    "festivals": "Gopa Ashtami"
+  },
+  "3-Nov-22": {
+    "festivals": "Dev Uthana Ekadashi -- Smarta"
+  },
+  "4-Nov-22": {
+    "festivals": "Tulsi Kalyanam"
+  },
+  "7-Nov-22": {
+    "festivals": "Kartika Purnima"
+  },
+  "16-Nov-22": {
+    "festivals": "Kalabhairav Jayanti"
+  },
+  "3-Dec-22": {
+    "festivals": "Geeta Jayanti"
+  },
+  "5-Dec-22": {
+    "festivals": "Bharani Deepam"
+  },
+  "6-Dec-22": {
+    "festivals": "Kartikai Deepam"
+  },
+  "7-Dec-22": {
+    "festivals": "Dattatreya Jayanti"
+  },
+  "16-Dec-22": {
+    "festivals": "Dhanurmasa Begin"
+  },
+  "23-Dec-22": {
+    "festivals": "Margazhi Moolam"
+  },
+  "26-Dec-22": {
+    "festivals": "Ayyappa Mandala Puja Ends"
   }
-
-
-
-  
-  }
+}
